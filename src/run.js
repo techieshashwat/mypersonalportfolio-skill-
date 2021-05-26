@@ -1,6 +1,7 @@
 const path=require("path");
 const express = require("express");
 const ap = express();
+const port = process.env.PORT ||8000;
 
 
 
@@ -18,8 +19,8 @@ const ap = express();
 
 
 
-ap.listen(8000,()=>{
-    console.log("this app started successfully on port 8000")
+ap.listen(port,()=>{
+    console.log(`listining to the port no at ${port}`);
     });
 
 
