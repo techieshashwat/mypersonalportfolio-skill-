@@ -1,5 +1,5 @@
 {
-  "name": "chutiya",
+  "name": "portfoli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "start" :"node src/run.js"
   
   },
-  "author": "ddlljj",
+  "author": "shashwat",
   "license": "ISC"
 }
