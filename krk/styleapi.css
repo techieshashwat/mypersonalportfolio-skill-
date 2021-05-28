@@ -456,6 +456,13 @@
         background: lightblue;
         color: white;
     }
+    
+
+
+    
+
+
+
     .home{
         background: lightblue;
     }
@@ -588,6 +595,10 @@
     
         .team .card .box{
             background: rgb(56, 56, 119);
+            display: flex;
+            
+        
+            
             
         }
     
